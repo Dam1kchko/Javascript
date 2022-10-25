@@ -1,31 +1,25 @@
-const rewards = [    // reaching goes with rewards[i].[tokens/orbs/orange/icon/...] 
-    { tokens: 200, orbs: 4 },
-    { tokens: 20},
-    { tokens: 80, OE: 750 },
-    { tokens: 20},
-    { tokens: 20, icon: "Spirit Blossom Icon"},
-    { tokens: 60, },
-    { tokens: 20, icon: "koko"},
-    { tokens: 60, },
-    { tokens: 20, boost: "3 Win EXP Boost"},
-    { tokens: 20, },
-    { tokens: 80, mythic_essence: 10},
-    { tokens: 20, },
-    { tokens: 20, },
-    { tokens: 20, },
-    { tokens: 20, },
-    { tokens: 20, },
-    { tokens: 20, },
-    { tokens: 20, },
-    { tokens: 20, },
-    { tokens: 20, },
-    { tokens: 20, },
-    { tokens: 20, },
-    { tokens: 20, },
-    { tokens: 20, },
-    { tokens: 20, },
-    { tokens: 20, },
-]
+const rewards = {
+    'Worlds 2022' : [
+        { 'Worlds 2022 Tokens': 200,'Worlds 2022 Orb': 4 },
+        { 'Worlds 2022 Tokens': 20},
+        { 'Worlds 2022 Tokens': 80, 'OE': 750 },
+        { 'Worlds 2022 Tokens': 20},
+        { 'Worlds 2022 Tokens': 20, 'Icon': "Spirit Blossom"},
+        { 'Worlds 2022 Tokens': 60, },
+        { 'Worlds 2022 Tokens': 60, },
+        { 'Worlds 2022 Tokens': 20, 'Skin': "Mysterious Breeze Ahri"},
+        { 'Worlds 2022 Tokens': 20, },
+        { 'Worlds 2022 Tokens': 80, 'ME' : 10},
+        { 'Worlds 2022 Tokens': 80, 'ME' : 10},
+        { 'Worlds 2022 Tokens': 80, 'ME' : 10},
+        { 'Worlds 2022 Tokens': 80, 'ME' : 10},
+        { 'Worlds 2022 Tokens': 80, 'ME' : 10},
+        { 'Worlds 2022 Tokens': 80, 'ME' : 10},
+        { 'Worlds 2022 Tokens': 80, 'ME' : 10},
+        { 'Worlds 2022 Tokens': 80, 'ME' : 10},
+        { 'Worlds 2022 Tokens': 80, 'ME' : 10},
+    ]
+}
 
 module.exports = {
     rewards
