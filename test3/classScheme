@@ -1,0 +1,20 @@
+- Player
+    -> Currency, Progress, Loot, SkinCollection
+        -> Currency 
+            -> worldTokens
+        -> Progress
+            -> currLevel, lvlRequirement, rewardLevel
+        -> Loot 
+            - orangeEss, blueEss, mythicEss 
+            - orbs, bags
+            -> class LootSkins
+                -> changeable collection of class Skin
+            -> class Accessories
+                -> array for emotes,icons
+            -> class Essence
+                -> orangeEss, blueEss, mythicEss 
+        -> SkinCollection 
+            -> class SkinCollection
+                -> array of class Skin
+            
+
