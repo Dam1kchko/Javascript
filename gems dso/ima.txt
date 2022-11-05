@@ -1,0 +1,13 @@
+Ruby.(50):9x + 28
+Onyx.(50):8x + 6
+Zircon.(50):8x + 48
+Rhodolyte.(50):8x + 20
+Emerald.(60):14x + 50
+Amethyst.(60):15x + 2
+Cyanite.(60):15x + 5
+Diamond.(60):15x + 34
+Diamond Fire.(60):15x + 21
+Diamond Ice.(60):15x + 28
+Diamond Andermagic.(60):15x + 56
+Diamond Lightning.(60):15x + 17 
+Diamond Poison.(60):15x + 45
