@@ -17,3 +17,9 @@ Runs the JSON Server, to load the data in the json file rapport_items at port 80
     `Load data from local JSON Server, supported with React`
     `Allow HTTP request the forementioned server and saving changes
     `Made entirely for personal usage for now`
+    
+    
+### UPDATES FOR NEXT RELEASE:
+
+    `Search option for displaying found items via string`
+    `Improved CSS format of the page`
