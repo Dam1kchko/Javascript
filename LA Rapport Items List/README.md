@@ -23,3 +23,4 @@ Runs the JSON Server, to load the data in the json file rapport_items at port 80
 
     `Search option for displaying found items via string`
     `Improved CSS format of the page`
+    `Switching the onClick events on the buttons to separate async handle functions`
