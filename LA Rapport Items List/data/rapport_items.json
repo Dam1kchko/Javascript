@@ -1,0 +1,931 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Fancier Bouquet",
+      "merchant": "Ben",
+      "rarity": "Epic",
+      "region": "Rethmaris",
+      "favorite_NPC": "Luterra Castle Neria",
+      "quantity": 5
+    },
+    {
+      "id": 2,
+      "name": "Prideholme Potato",
+      "merchant": "Ben",
+      "rarity": "Epic",
+      "region": "Rethmaris",
+      "favorite_NPC": "Prideholme Neria",
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "Rethramis Holy Water",
+      "merchant": "Ben",
+      "rarity": "Epic",
+      "region": "Rethmaris",
+      "favorite_NPC": "Payla",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "name": "Surprise Chest",
+      "merchant": "Ben",
+      "rarity": "Legendary",
+      "region": "Rethmaris",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "name": "Yudia Natural Salt",
+      "merchant": "Lucas",
+      "rarity": "Epic",
+      "region": "Yudia",
+      "favorite_NPC": "Whalekeeper Bellita",
+      "quantity": 0
+    },
+    {
+      "id": 6,
+      "name": "Yudia Spellbook",
+      "merchant": "Lucas",
+      "rarity": "Epic",
+      "region": "Yudia",
+      "favorite_NPC": "None",
+      "quantity": 2
+    },
+    {
+      "id": 7,
+      "name": "Sky Reflection Oil",
+      "merchant": "Lucas",
+      "rarity": "Legendary",
+      "region": "Yudia",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 8,
+      "name": "Black Rose",
+      "merchant": "Malone",
+      "rarity": "Epic",
+      "region": "West Luterra",
+      "favorite_NPC": "Anabel & Mari",
+      "quantity": 0
+    },
+    {
+      "id": 9,
+      "name": "Lakebar Tomato Juice",
+      "merchant": "Malone",
+      "rarity": "Epic",
+      "region": "West Luterra",
+      "favorite_NPC": "Wavestrand Port Neria",
+      "quantity": 0
+    },
+    {
+      "id": 10,
+      "name": "Stalwart Cage",
+      "merchant": "Malone",
+      "rarity": "Epic",
+      "region": "West Luterra",
+      "favorite_NPC": "Calvasus & Tienis",
+      "quantity": 0
+    },
+    {
+      "id": 11,
+      "name": "Azenaporium Brooch",
+      "merchant": "Morris & Burt",
+      "rarity": "Epic",
+      "region": "East Luterra",
+      "favorite_NPC": "Vivian & Kirke",
+      "quantity": 1
+    },
+    {
+      "id": 12,
+      "name": "Dyorika Straw Hat",
+      "merchant": "Morris & Burt",
+      "rarity": "Epic",
+      "region": "East Luterra",
+      "favorite_NPC": "Selfa & Euclid",
+      "quantity": 0
+    },
+    {
+      "id": 13,
+      "name": "Model of Luterra's Sword",
+      "merchant": "Morris & Burt",
+      "rarity": "Epic",
+      "region": "East Luterra",
+      "favorite_NPC": "Thirain & Norin",
+      "quantity": 0
+    },
+    {
+      "id": 14,
+      "name": "Chain War Chronicles",
+      "merchant": "Morris & Burt",
+      "rarity": "Legendary",
+      "region": "East Luterra",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 15,
+      "name": "Mokoko Carrot",
+      "merchant": "Oliver",
+      "rarity": "Epic",
+      "region": "Tortoyk",
+      "favorite_NPC": "Mokamoka",
+      "quantity": 0
+    },
+    {
+      "id": 16,
+      "name": "Oversized Ladybug Doll",
+      "merchant": "Oliver",
+      "rarity": "Epic",
+      "region": "Tortoyk",
+      "favorite_NPC": "Dakudaku",
+      "quantity": 0
+    },
+    {
+      "id": 17,
+      "name": "Round Glass Piece",
+      "merchant": "Oliver",
+      "rarity": "Epic",
+      "region": "Tortoyk",
+      "favorite_NPC": "Totoma",
+      "quantity": 0
+    },
+    {
+      "id": 18,
+      "name": "Sky Wind Flower Pollen",
+      "merchant": "Oliver",
+      "rarity": "Legendary",
+      "region": "Tortoyk",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 19,
+      "name": "Tournament Entrance Stamp",
+      "merchant": "Mac",
+      "rarity": "Epic",
+      "region": "Anikka",
+      "favorite_NPC": "None",
+      "quantity": 1
+    },
+    {
+      "id": 20,
+      "name": "Angler's Fishing Pole",
+      "merchant": "Mac",
+      "rarity": "Legendary",
+      "region": "Anikka",
+      "favorite_NPC": "None",
+      "quantity": 1
+    },
+    {
+      "id": 21,
+      "name": "Energy X7 Capsule",
+      "merchant": "Nox",
+      "rarity": "Epic",
+      "region": "Arthetine",
+      "favorite_NPC": "None",
+      "quantity": 5
+    },
+    {
+      "id": 22,
+      "name": "Fine Gramophone",
+      "merchant": "Nox",
+      "rarity": "Legendary",
+      "region": "Arthetine",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 23,
+      "name": "Crystallized Magick",
+      "merchant": "Peter",
+      "rarity": "Epic",
+      "region": "North Vern",
+      "favorite_NPC": "Orelda & Orc Elder Gillock",
+      "quantity": 0
+    },
+    {
+      "id": 24,
+      "name": "Exquisite Music Box",
+      "merchant": "Peter",
+      "rarity": "Epic",
+      "region": "North Vern",
+      "favorite_NPC": "Stern Neria",
+      "quantity": 3
+    },
+    {
+      "id": 25,
+      "name": "Goblin Yam",
+      "merchant": "Peter",
+      "rarity": "Epic",
+      "region": "North Vern",
+      "favorite_NPC": "Gobius XXIV",
+      "quantity": 0
+    },
+    {
+      "id": 26,
+      "name": "Magick Cloth",
+      "merchant": "Peter",
+      "rarity": "Epic",
+      "region": "North Vern",
+      "favorite_NPC": "Ealyn & Tanay",
+      "quantity": 1
+    },
+    {
+      "id": 27,
+      "name": "Queen's Knights Application",
+      "merchant": "Peter",
+      "rarity": "Epic",
+      "region": "North Vern",
+      "favorite_NPC": "Sorang",
+      "quantity": 0
+    },
+    {
+      "id": 28,
+      "name": "Vern's Founding Coin",
+      "merchant": "Peter",
+      "rarity": "Legendary",
+      "region": "North Vern",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 29,
+      "name": "Shimmering Essence",
+      "merchant": "Jeffrey",
+      "rarity": "Epic",
+      "region": "Shushire",
+      "favorite_NPC": "None",
+      "quantity": 7
+    },
+    {
+      "id": 30,
+      "name": "Sirius's Holy Book",
+      "merchant": "Jeffrey",
+      "rarity": "Legendary",
+      "region": "Shushire",
+      "favorite_NPC": "None",
+      "quantity": 1
+    },
+    {
+      "id": 31,
+      "name": "Danube's Earrings",
+      "merchant": "Aricer",
+      "rarity": "Epic",
+      "region": "Rohendel",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 32,
+      "name": "Elemental's Feather",
+      "merchant": "Aricer",
+      "rarity": "Epic",
+      "region": "Rohendel",
+      "favorite_NPC": "Avele & Azena",
+      "quantity": 0
+    },
+    {
+      "id": 33,
+      "name": "Soundstone of Dawn",
+      "merchant": "Aricer",
+      "rarity": "Epic",
+      "region": "Rohendel",
+      "favorite_NPC": "Lenora & Hariya",
+      "quantity": 5
+    },
+    {
+      "id": 34,
+      "name": "Sylvain Queens' Blessing",
+      "merchant": "Aricer",
+      "rarity": "Legendary",
+      "region": "Rohendel",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 35,
+      "name": "Piyer's Secret Textbook",
+      "merchant": "Laitir",
+      "rarity": "Epic",
+      "region": "Yorn",
+      "favorite_NPC": "None",
+      "quantity": 2
+    },
+    {
+      "id": 36,
+      "name": "Fargar's Beer",
+      "merchant": "Laitir",
+      "rarity": "Legendary",
+      "region": "Yorn",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 37,
+      "name": "Book of Survival",
+      "merchant": "Dorella",
+      "rarity": "Epic",
+      "region": "Feiton",
+      "favorite_NPC": "Lutia & Ludwig",
+      "quantity": 0
+    },
+    {
+      "id": 38,
+      "name": "Broken Dagger",
+      "merchant": "Dorella",
+      "rarity": "Epic",
+      "region": "Feiton",
+      "favorite_NPC": "Levi",
+      "quantity": 0
+    },
+    {
+      "id": 39,
+      "name": "Desiccated Wooden Statue",
+      "merchant": "Dorella",
+      "rarity": "Epic",
+      "region": "Feiton",
+      "favorite_NPC": "Jederico",
+      "quantity": 0
+    },
+    {
+      "id": 40,
+      "name": "Red Moon Tears",
+      "merchant": "Dorella",
+      "rarity": "Legendary",
+      "region": "Feiton",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 41,
+      "name": "Hollowfruit",
+      "merchant": "Rayni",
+      "rarity": "Epic",
+      "region": "Punika",
+      "favorite_NPC": "Shana",
+      "quantity": 0
+    },
+    {
+      "id": 42,
+      "name": "Pinata Crafting Set",
+      "merchant": "Rayni",
+      "rarity": "Epic",
+      "region": "Punika",
+      "favorite_NPC": "Nagi",
+      "quantity": 0
+    },
+    {
+      "id": 43,
+      "name": "Rainbow Tikatika Flower",
+      "merchant": "Rayni",
+      "rarity": "Epic",
+      "region": "Punika",
+      "favorite_NPC": "Nia",
+      "quantity": 0
+    },
+    {
+      "id": 44,
+      "name": "Oreha Viewing Stone",
+      "merchant": "Rayni",
+      "rarity": "Legendary",
+      "region": "Punika",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 45,
+      "name": "Feather Fan",
+      "merchant": "Evan",
+      "rarity": "Epic",
+      "region": "South Vern",
+      "favorite_NPC": "None",
+      "quantity": 8
+    },
+    {
+      "id": 46,
+      "name": "Febre Potion",
+      "merchant": "Evan",
+      "rarity": "Epic",
+      "region": "South Vern",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 47,
+      "name": "Mockup Firefly",
+      "merchant": "Evan",
+      "rarity": "Epic",
+      "region": "South Vern",
+      "favorite_NPC": "Cindy",
+      "quantity": 0
+    },
+    {
+      "id": 48,
+      "name": "Necromancer's Records",
+      "merchant": "Evan",
+      "rarity": "Legendary",
+      "region": "South Vern",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 49,
+      "name": "Enya Balm",
+      "merchant": "Serihan",
+      "rarity": "Epic",
+      "region": "Rowen",
+      "favorite_NPC": "Anke",
+      "quantity": 2
+    },
+    {
+      "id": 50,
+      "name": "Top Quality Beef Jerky",
+      "merchant": "Serihan",
+      "rarity": "Epic",
+      "region": "Rowen",
+      "favorite_NPC": "Zenlord",
+      "quantity": 4
+    },
+    {
+      "id": 51,
+      "name": "Wolf Fang Necklace",
+      "merchant": "Serihan",
+      "rarity": "Epic",
+      "region": "Rowen",
+      "favorite_NPC": "Sylus",
+      "quantity": 0
+    },
+    {
+      "id": 52,
+      "name": "Warm Earmuffs",
+      "merchant": "Serihan",
+      "rarity": "Legendary",
+      "region": "Rowen",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 53,
+      "name": "Anikka Lute",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Siera",
+      "quantity": 0
+    },
+    {
+      "id": 54,
+      "name": "Bruug Steak",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Samly",
+      "quantity": 0
+    },
+    {
+      "id": 55,
+      "name": "Colorful Claw Toy",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Neth & Berver",
+      "quantity": 0
+    },
+    {
+      "id": 56,
+      "name": "Divine Tear Orpeggio",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Nineveh & Gideon",
+      "quantity": 0
+    },
+    {
+      "id": 57,
+      "name": "Educational Chart",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Nabi",
+      "quantity": 0
+    },
+    {
+      "id": 58,
+      "name": "Encavian Relic",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Krissa",
+      "quantity": 0
+    },
+    {
+      "id": 59,
+      "name": "Excellent Liquor",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Imar",
+      "quantity": 0
+    },
+    {
+      "id": 60,
+      "name": "Fragrant Peach",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Beatrice & Pamil",
+      "quantity": 0
+    },
+    {
+      "id": 61,
+      "name": "Ghost Photography",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Yuul & Jahara",
+      "quantity": 0
+    },
+    {
+      "id": 62,
+      "name": "Glacial Beer",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Kaysarr & Dath",
+      "quantity": 0
+    },
+    {
+      "id": 63,
+      "name": "Halite Statue",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Javern",
+      "quantity": 0
+    },
+    {
+      "id": 64,
+      "name": "Hawk Claws",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Morina",
+      "quantity": 0
+    },
+    {
+      "id": 65,
+      "name": "Hoyte 100-year Anniversary Bookmark",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Zeira",
+      "quantity": 0
+    },
+    {
+      "id": 66,
+      "name": "Machine Repair Set",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Bastian",
+      "quantity": 0
+    },
+    {
+      "id": 67,
+      "name": "Moonlight Butterfly",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Ryeon & Sapiano",
+      "quantity": 0
+    },
+    {
+      "id": 68,
+      "name": "Mysterious Mouth",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Cals & Toto Elder",
+      "quantity": 0
+    },
+    {
+      "id": 69,
+      "name": "Old Bone",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Thunder & Albion",
+      "quantity": 0
+    },
+    {
+      "id": 70,
+      "name": "Paradise Parfait",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Zenri",
+      "quantity": 0
+    },
+    {
+      "id": 71,
+      "name": "Perfect Beer Stein",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Blackfeng",
+      "quantity": 1
+    },
+    {
+      "id": 72,
+      "name": "Piyernamite",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "-",
+      "quantity": 0
+    },
+    {
+      "id": 73,
+      "name": "Raccoontaurus Milk",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Poppy",
+      "quantity": 0
+    },
+    {
+      "id": 74,
+      "name": "Shining Ore",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Urr",
+      "quantity": 0
+    },
+    {
+      "id": 75,
+      "name": "Small Music Box",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Puppa & Yom",
+      "quantity": 0
+    },
+    {
+      "id": 76,
+      "name": "Stamina Recovery Formula",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Stranded Temma",
+      "quantity": 0
+    },
+    {
+      "id": 77,
+      "name": "Stern Scrap Iron",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Sasha & Orne",
+      "quantity": 0
+    },
+    {
+      "id": 78,
+      "name": "Top-Grade Fur",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Jude",
+      "quantity": 0
+    },
+    {
+      "id": 79,
+      "name": "Torso Sculpture",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Erzebet",
+      "quantity": 0
+    },
+    {
+      "id": 80,
+      "name": "Tournament Entrance Certificate",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Remy & Zinnervale",
+      "quantity": 0
+    },
+    {
+      "id": 81,
+      "name": "Transparent Pearl",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Elia",
+      "quantity": 0
+    },
+    {
+      "id": 82,
+      "name": "Truth Mushroom",
+      "merchant": "Exchange",
+      "rarity": "Epic",
+      "region": "Exchange",
+      "favorite_NPC": "Great Castle Neria",
+      "quantity": 0
+    },
+    {
+      "id": 83,
+      "name": "Festival of Fire and Ice",
+      "merchant": "Exchange",
+      "rarity": "Legendary",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 84,
+      "name": "Albion's Scale",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 85,
+      "name": "Azure Gem",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 86,
+      "name": "Azure Heart Fruit",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 87,
+      "name": "Blessings of the Lazeniths",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 88,
+      "name": "Crystal Necklace",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 89,
+      "name": "Encavian Crown",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 90,
+      "name": "Endless Bottle",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 91,
+      "name": "Gienah's Protection",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 92,
+      "name": "Gustaven's Holy Water",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 93,
+      "name": "Haal Coin",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 94,
+      "name": "Honey Toast",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 95,
+      "name": "Hoyte Issue No. 289",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 96,
+      "name": "Linderte Goblet",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 97,
+      "name": "Liquor of Arrogance",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 98,
+      "name": "Living Stone",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 99,
+      "name": "Lunar Knight Token",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 100,
+      "name": "Mask of the Oath",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 1
+    },
+    {
+      "id": 101,
+      "name": "Medrick Centennial Wine",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 102,
+      "name": "Millennial Lotus Essence",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    },
+    {
+      "id": 103,
+      "name": "Tiroc Fruit",
+      "merchant": "Exchange",
+      "rarity": "Relic",
+      "region": "Exchange",
+      "favorite_NPC": "None",
+      "quantity": 0
+    }
+  ]
+}
